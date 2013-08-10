@@ -23,9 +23,9 @@ python 3.2+
 USAGE
 =====
 
-python xorstrings.py <ascii hex encoded data> <ascii hex encoded data>
+python xorstrings.py &lt;ascii hex encoded data&gt; &lt;ascii hex encoded data&gt;
 
-python cribdrag.py [-c charset] <ascii hex encoded ciphertext>
+python cribdrag.py [-c charset] &lt;ascii hex encoded ciphertext&gt;
 
 COPYRIGHT
 =========
