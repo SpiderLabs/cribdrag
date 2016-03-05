@@ -18,7 +18,7 @@ Multiple character XOR
 REQUIREMENTS
 ============
 
-python 3.2+
+python 2.x
 
 USAGE
 =====
