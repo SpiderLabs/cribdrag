@@ -10,10 +10,11 @@ cribdrag is a script for performing crib dragging attacks against
 ciphertext encrypted using an XOR operation with a predictable key.
 
 This script can be used to cryptanalyze:
-One-Time Pad with reused key (XOR two ciphertexts together)
-Any stream cipher with reused key (XOR two ciphertexts together)
-Single character XOR
-Multiple character XOR
+
+* One-Time Pad with reused key (XOR two ciphertexts together)
+* Any stream cipher with reused key (XOR two ciphertexts together)
+* Single character XOR
+* Multiple character XOR
 
 REQUIREMENTS
 ============
@@ -23,9 +24,10 @@ python 2.x
 USAGE
 =====
 
-python xorstrings.py &lt;ascii hex encoded data&gt; &lt;ascii hex encoded data&gt;
-
-python cribdrag.py [-c charset] &lt;ascii hex encoded ciphertext&gt;
+~~~
+python xorstrings.py <ascii hex encoded data> <ascii hex encoded data>
+python cribdrag.py [-c charset] <ascii hex encoded ciphertext>
+~~~
 
 COPYRIGHT
 =========
