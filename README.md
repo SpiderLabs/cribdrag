@@ -1,3 +1,6 @@
+:warning: *NOTE: This tool is no longer under active maintenance.*
+
+
 cribdrag
 Released after LOL Bitcoin party at DEF CON 21
 Daniel Crowley <dcrowley@trustwave.com>
